@@ -19,7 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on PTI<br><br>🌱 I’m currently learning Rust and Go<br><br>⚡ Fun fact: After years of hating Vim users, I've joined the clan! 😎 <br><br>📫 How to reach me: erikwasmosy98@gmail.com
+🔭 I’m currently working on PTI<br><br>
+🌱 I’m currently learning Rust and Go<br><br>
+✨ AI enthusiast with focus on Deep Learning architectures
+⚡ Fun fact: After years of hating Vim users, I've joined the clan! 😎 <br><br>
+📫 How to reach me: erikwasmosy98@gmail.com
 
 
 ## 🌐 Socials:
