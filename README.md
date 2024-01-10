@@ -1,4 +1,8 @@
-### Hi there 👋
+
+<h1 align="center">
+	Hi there, I'm Erik Wasmosy 👋
+	<a href="mailto:erikwasmosy98@gmail.com"> <img src="https://img.icons8.com/color/35/gmail.png"/></a>
+</h1>
 
 <!--
 **erwaen/erwaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
