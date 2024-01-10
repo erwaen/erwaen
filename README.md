@@ -2,6 +2,7 @@
 <h1 align="center">
 	Hi there, I'm Erik Wasmosy 👋
 	<a href="mailto:erikwasmosy98@gmail.com"> <img src="https://img.icons8.com/color/35/gmail.png"/></a>
+	<a href="https://www.linkedin.com/in/erik-wasmosy-872839214/"> <img src="https://img.icons8.com/color/35/linkedin.png"/></a>
 </h1>
 
 <!--
