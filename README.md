@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 * I’m currently working at PTI
 * I’m currently doing some Golang stuff after 3 years of Python experience<br><br>
+-->
+
 How to reach me: erikwasmosy98@gmail.com
 
 | **Programming Languages** | **ML/DL** | **Cloud** | **Frontend** | **Backend** | **Tools & DBs** |
